@@ -36,18 +36,15 @@ namespace FindMinValueTivaR
             int tmpMinValue = 500;
             const int MAX_ARRAY_SIZE = 10;
 
-            // To cycle through array until it is all compared
-            foreach ([] in tmpArrayOfIntegers)
-            /*
-            for (int counter = 0; counter < MAX_ARRAY_SIZE; counter++)
+            // To compare every irtem in the array
+            foreach (int integerNum in tmpArrayOfIntegers)
             {
-                if (tmpMinValue > tmpArrayOfIntegers[counter])
+                if (tmpMinValue > integerNum)
                 {
                     // Set the max value to be equal to the current number
-                    tmpMinValue = tmpArrayOfIntegers[counter];
+                    tmpMinValue = integerNum;
                 }
             }
-            */
 
             return tmpMinValue;
         }
