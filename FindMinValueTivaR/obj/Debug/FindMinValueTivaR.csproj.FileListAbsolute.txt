@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\FindMinValueTivaR\FindMinValueTivaR\obj\Debug\FindMinValueTivaR.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\FindMinValueTivaR\FindMinValueTivaR\obj\Debug\FindMinValueTivaR.FindMinValueForm.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\FindMinValueTivaR\FindMinValueTivaR\obj\Debug\FindMinValueTivaR.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\FindMinValueTivaR\FindMinValueTivaR\obj\Debug\FindMinValueTivaR.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\FindMinValueTivaR\FindMinValueTivaR\bin\Debug\FindMinValueTivaR.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\FindMinValueTivaR\FindMinValueTivaR\bin\Debug\FindMinValueTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\FindMinValueTivaR\FindMinValueTivaR\bin\Debug\FindMinValueTivaR.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\FindMinValueTivaR\FindMinValueTivaR\obj\Debug\FindMinValueTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\FindMinValueTivaR\FindMinValueTivaR\obj\Debug\FindMinValueTivaR.pdb
